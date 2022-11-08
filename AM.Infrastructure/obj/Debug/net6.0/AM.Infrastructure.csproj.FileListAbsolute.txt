@@ -1,0 +1,17 @@
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.deps.json
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.dll
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.pdb
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.AssemblyReference.cache
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.AssemblyInfoInputs.cache
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.AssemblyInfo.cs
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.CoreCompileInputs.cache
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.dll
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\refint\AM.Infrastructure.dll
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.pdb
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\ref\AM.Infrastructure.dll
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.Infrastructure.runtimeconfig.json
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.ApplicatinCore.dll
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\bin\Debug\net6.0\AM.ApplicatinCore.pdb
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.csproj.CopyComplete
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.genruntimeconfig.cache

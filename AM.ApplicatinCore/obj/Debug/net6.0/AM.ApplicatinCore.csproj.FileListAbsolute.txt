@@ -1,0 +1,12 @@
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.ApplicatinCore\bin\Debug\net6.0\AM.ApplicatinCore.deps.json
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.ApplicatinCore\bin\Debug\net6.0\AM.ApplicatinCore.dll
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.ApplicatinCore\bin\Debug\net6.0\AM.ApplicatinCore.pdb
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.ApplicatinCore\obj\Debug\net6.0\AM.ApplicatinCore.csproj.AssemblyReference.cache
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.ApplicatinCore\obj\Debug\net6.0\AM.ApplicatinCore.GeneratedMSBuildEditorConfig.editorconfig
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.ApplicatinCore\obj\Debug\net6.0\AM.ApplicatinCore.AssemblyInfoInputs.cache
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.ApplicatinCore\obj\Debug\net6.0\AM.ApplicatinCore.AssemblyInfo.cs
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.ApplicatinCore\obj\Debug\net6.0\AM.ApplicatinCore.csproj.CoreCompileInputs.cache
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.ApplicatinCore\obj\Debug\net6.0\AM.ApplicatinCore.dll
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.ApplicatinCore\obj\Debug\net6.0\refint\AM.ApplicatinCore.dll
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.ApplicatinCore\obj\Debug\net6.0\AM.ApplicatinCore.pdb
+Z:\AZIZ\4 SAE\.NET\TP\AirportManagement\AM.ApplicatinCore\obj\Debug\net6.0\ref\AM.ApplicatinCore.dll
